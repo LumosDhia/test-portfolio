@@ -1,0 +1,23 @@
+{
+  "education": [
+        {
+      "name": "ESPRIT",
+      "href": "https://www.esprit.tn/",
+      "title": "Master of Engineering in Computer Science",
+      "logo": "/esprit-logo.jpg",
+      "start": "Sep 2025",
+      "end": "Present"
+    },
+    {
+      "name": "Higher Institute of Technological Studies of Kairouan",
+      "href": "http://www.isetkr.rnu.tn/",
+      "title": "Bachelor’s Degree in Information Technology",
+      "logo": "/iset-kairouan.jpeg",
+      "start": "Sep 2021",
+      "end": "Jun 2024",
+      "description": [
+        "Graduated with Honors"
+      ]
+    }
+  ]
+}

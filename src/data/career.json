@@ -1,0 +1,39 @@
+{
+  "career": [
+    {
+      "name": "Star Assurances",
+      "href": "https://www.dbs.com.sg",
+      "title": "DevSecOps Junior (Intern)",
+      "logo": "/Star-assurance-logo.jpg",
+      "start": "Feb 2024",
+      "end": "Jun 2024",
+      "description": [
+        "Created a CI/CD pipeline",
+        "Implemented DevSecOps practices",
+        "Deployed to Azure Cloud"
+      ]
+    },
+    {
+      "name": "OneTech group",
+      "href": "https://onetech-group.com/",
+      "title": "Software Developer (Intern)",
+      "logo": "/one-tech-logo.png",
+      "start": "Jan 2022",
+      "end": "Feb 2022",
+      "description": [
+      "Created a Java program to automate data handling and processing in Excel using Apache POI"
+      ]
+    },
+    {
+      "name": "WIC MIC group",
+      "href": "https://www.wicmicgroup.com/",
+      "title": "IT Support Technician (Intern)",
+      "logo": "/wic-mic-logo.jpg",
+      "start": "Jan 2021",
+      "end": "Feb 2021",
+      "description": [
+       "Troubleshot hardware, software, and network issues, set up and maintained systems, and assisted users across various platforms"
+      ]
+    }
+  ]
+}

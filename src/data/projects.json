@@ -1,0 +1,41 @@
+{
+  "projects": [
+    {
+      "name": "Cloud",
+      "description": "lorem ipsum ",
+      "image": "/cloud.webp",
+      "tags": [
+        "Python",
+        "FastAPI",
+        "Docker",
+        "Fly.io",
+        "NextJS",
+        "PostgreSQL",
+        "TailwindCSS",
+        "BS4"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://huatnumbers.com",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/tedawf/tt4d",
+          "icon": "github"
+        },
+        {
+          "name": "Source (UI)",
+          "href": "https://github.com/tedawf/tt4d-web",
+          "icon": "github"
+        },
+        {
+          "name": "Trailer",
+          "href": "https://www.youtube.com/watch?v=PNAO-aI1Daw",
+          "icon": "youtube"
+        }
+      ]
+    }
+  ]
+}

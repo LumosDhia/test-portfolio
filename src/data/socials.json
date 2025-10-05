@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/lumosdhia/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/LumosDhia",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:LumosDhia@outlook.com",
+      "icon": "mail"
+    }
+  ]
+}
