@@ -3,7 +3,7 @@
     {
       "name": "Cloud",
       "description": "lorem ipsum ",
-      "image": "/cloud.webp",
+      "image": "/cloud.png",
       "tags": [
         "Python",
         "FastAPI",

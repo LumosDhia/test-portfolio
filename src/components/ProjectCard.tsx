@@ -22,6 +22,7 @@ interface Props {
 function getProjectSlug(name: string): string {
   const slugMap: Record<string, string> = {
     "TT4D": "tt4d",
+    "Cloud": "tt4d",
   };
   
   return slugMap[name] || name.toLowerCase().replace(/\s+/g, "-");
@@ -30,7 +31,7 @@ function getProjectSlug(name: string): string {
 export function ProjectCard({ project }: Props) {
   const { name, href, description, image, tags, links } = project;
   const projectSlug = getProjectSlug(name);
-  const hasArticle = ["TT4D", "Tradingview Telegram Alerts", "NFTVue"].includes(name);
+  const hasArticle = ["TT4D", "Tradingview Telegram Alerts", "NFTVue", "Cloud"].includes(name);
 
   return (
     <Card className="flex flex-col">
