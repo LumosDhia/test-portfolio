@@ -18,6 +18,7 @@ const calistoga = Calistoga({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NODE_ENV === 'production' ? 'https://LumosDhia.com' : 'http://localhost:3000'),
   title: "Ted Thoughts",
   description: "My personal site to showcase my developer work and opinions.",
 };

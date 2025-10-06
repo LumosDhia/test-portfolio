@@ -6,7 +6,7 @@ A clean, minimal portfolio website built with Next.js, Tailwind CSS, and Shadcn 
 
 ## Live Demo
 
-🌐 Check it out here: **[https://tedawf.com](https://tedawf.com)**
+🌐 Check it out here: **[https://LumosDhia.com](https://LumosDhia.com)**
 
 ![Portfolio Screenshot](public/tedawf-com-2.png)
 
@@ -29,7 +29,7 @@ A clean, minimal portfolio website built with Next.js, Tailwind CSS, and Shadcn 
 ## Getting Started
 
 ```bash
-git clone https://github.com/tedawf/tedawf.com ted-portfolio
+git clone https://github.com/tedawf/LumosDhia.com ted-portfolio
 cd ted-portfolio
 npm install
 cp .env.example .env.local
