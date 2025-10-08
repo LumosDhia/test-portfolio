@@ -8,31 +8,35 @@
       "start": "Feb 2024",
       "end": "Jun 2024",
       "description": [
-        "Created a CI/CD pipeline",
-        "Implemented DevSecOps practices",
-        "Deployed to Azure Cloud"
+        "Designed and implemented a CI/CD pipeline",
+        "Applied DevSecOps best practices",
+        "Deployed to Microsoft Azure Cloud"
       ]
     },
     {
       "name": "OneTech group",
       "href": "https://onetech-group.com/",
-      "title": "Software Developer (Intern)",
+      "title": "System Administration (Intern)",
       "logo": "/one-tech-logo.png",
-      "start": "Jan 2022",
-      "end": "Feb 2022",
+      "start": "Jan 2023",
+      "end": "Feb 2023",
       "description": [
-      "Created a Java program to automate data handling and processing in Excel using Apache POI"
-      ]
+      "Assisted in managing servers and user accounts",
+      "Configured and monitored network and system performance",
+      "Supported deployment and maintenance of internal applications"      ]
     },
     {
       "name": "WIC MIC group",
       "href": "https://www.wicmicgroup.com/",
       "title": "IT Support Technician (Intern)",
       "logo": "/wic-mic-logo.jpg",
-      "start": "Jan 2021",
-      "end": "Feb 2021",
+      "start": "Dec 2021",
+      "end": "Jan 2022",
       "description": [
-       "Troubleshot hardware, software, and network issues, set up and maintained systems, and assisted users across various platforms"
+      "Set up and maintained systems",
+      "Assisted stuff across various technical problems",
+      "Troubleshot hardware, software, and network issues"
+
       ]
     }
   ]
